@@ -78,8 +78,8 @@ sections:
       - title: 24/7
         subtitle: Lead Handling
         text: >
-          Website + WhatsApp greet visitors, collect context, and qualify,
-          ANYTIME, ANYWHERE. 
+          Website + WhatsApp greet visitors, collect context, and qualify.
+          ANYTIME, ANYWHERE.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
