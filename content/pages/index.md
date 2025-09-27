@@ -102,7 +102,7 @@ sections:
         tagline: AI chat and support
       - type: FeaturedItem
         title: '8-12 '
-        subtitle: ''
+        subtitle: hours/week
         text: |
           Repetitive tasks happen quietly in the background.
         actions: []
