@@ -76,7 +76,7 @@
         {
             "label": "Start Free Trial",
             "altText": "Start Free Trial",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://blackcollar.tech/freetrial",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
