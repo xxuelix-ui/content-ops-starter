@@ -103,8 +103,8 @@ sections:
         title: '8—12 '
         subtitle: Hours per Week
         text: >
-          We automate repetitive admin behind the scenes, keeping your inbox,
-          sheets, and CRM updated for you. 
+          *We automate repetitive admin behind the scenes, keeping your inbox,
+          sheets, and CRM updated for you.*
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
