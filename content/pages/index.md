@@ -75,7 +75,7 @@ sections:
           textAlign: center
     subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
-      - title: 20x
+      - title: 24/7
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
