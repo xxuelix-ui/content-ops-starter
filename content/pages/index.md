@@ -129,7 +129,7 @@ sections:
               borderRadius: x-large
         tagline: Save Time
       - title: Up to 3x
-        subtitle: Faster
+        subtitle: Better Conversion
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
