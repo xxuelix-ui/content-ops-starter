@@ -99,6 +99,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: AI chat and support
       - type: FeaturedItem
         title: 24/7
         subtitle: ''
