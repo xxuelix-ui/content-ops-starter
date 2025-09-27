@@ -101,7 +101,7 @@ sections:
         type: FeaturedItem
         tagline: AI chat and support
       - type: FeaturedItem
-        title: 24/7
+        title: 8-12 hours/week
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
