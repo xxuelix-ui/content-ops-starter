@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ai for small medium businesses
+      label: ai for small & medium businesses
       color: text-primary
       type: Badge
     elementId: ''
