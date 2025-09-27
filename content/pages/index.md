@@ -131,8 +131,8 @@ sections:
       - title: Up to 3x
         subtitle: Better Conversion
         text: >
-          Instant replies and steady follow-ups turn more inquiries into
-          meetings and sales.
+          *Instant replies and steady follow-ups turn more inquiries into
+          meetings and sales.*
         image:
           url: /images/icon3.svg
           altText: Featured icon three
