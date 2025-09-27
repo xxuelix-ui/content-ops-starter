@@ -258,7 +258,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: tbc
+      label: showcase main product
       color: text-primary
       styles:
         self:
