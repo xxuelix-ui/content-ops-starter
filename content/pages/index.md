@@ -73,7 +73,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
       - title: 20x
         subtitle: The Job Stuff
