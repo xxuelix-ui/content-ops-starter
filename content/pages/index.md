@@ -72,7 +72,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: right
     subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
       - title: 20x
