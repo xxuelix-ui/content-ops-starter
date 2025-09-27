@@ -684,7 +684,7 @@ sections:
       text: TELL US ABOUT YOU
       color: text-dark
       type: TitleBlock
-    subtitle: 'We''ll reply within 1 business day with next steps. '
+    subtitle: ''
     text: >
       We set up no-code AI that saves time and boosts conversion. Tell us your
       top bottleneck and we’ll propose the quickest win.
