@@ -52,7 +52,7 @@
                     "showIcon": false
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Blog",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
