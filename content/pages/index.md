@@ -129,7 +129,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: ''
+        tagline: Save Time
       - title: 200%
         subtitle: Faster
         text: >-
