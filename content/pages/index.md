@@ -151,6 +151,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: Boost
     actions:
       - label: Get started
         altText: ''
