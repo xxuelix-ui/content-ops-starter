@@ -164,7 +164,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: erdf
+      label: Built for businesses
       color: text-primary
       styles:
         self:
