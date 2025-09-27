@@ -76,7 +76,7 @@ sections:
     subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
       - title: 24/7
-        subtitle: The Job Stuff
+        subtitle: Lead Handling
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
