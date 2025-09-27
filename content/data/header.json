@@ -83,7 +83,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Talk to sales",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
