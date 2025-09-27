@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Automate the repetitive.
+      text: Automate the repetitive. Grow with efficiency.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
