@@ -60,7 +60,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Contact Us",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
