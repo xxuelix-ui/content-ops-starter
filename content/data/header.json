@@ -49,7 +49,7 @@
                     "iconPosition": "left",
                     "style": "secondary",
                     "type": "Link",
-                    "showIcon": false
+                    "showIcon": true
                 },
                 {
                     "label": "Dropdown item",
