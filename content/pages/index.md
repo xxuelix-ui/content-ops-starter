@@ -98,7 +98,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: AI chat and support
+        tagline: AI chat & support
       - type: FeaturedItem
         title: '8-12 '
         subtitle: hours/week
