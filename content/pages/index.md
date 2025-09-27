@@ -101,7 +101,7 @@ sections:
         type: FeaturedItem
         tagline: AI chat and support
       - type: FeaturedItem
-        title: 8-12 hours/week
+        title: '8-12 '
         subtitle: ''
         text: |
           Repetitive tasks happen quietly in the background.
