@@ -129,6 +129,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: AI Chat & Lead Capture
       - title: 200%
         subtitle: Faster
         text: >-
