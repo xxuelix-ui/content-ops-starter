@@ -100,7 +100,7 @@ sections:
         type: FeaturedItem
         tagline: AI chat & support
       - type: FeaturedItem
-        title: '8-12 '
+        title: '8—12 '
         subtitle: hours per week
         text: |
           Repetitive admin runs quietly in the background.
