@@ -67,12 +67,9 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: The simple way
-      color: text-light
-      styles:
-        self:
-          textAlign: center
       type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
       - title: 20x
