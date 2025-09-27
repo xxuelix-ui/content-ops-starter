@@ -685,9 +685,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      We set up no-code AI that saves time and boosts conversion. Tell us your
-      top bottleneck and we’ll propose the quickest win.
+    text: |
+      Tell us your top bottleneck and we’ll propose the quickest win.
     media:
       fields:
         - name: name
