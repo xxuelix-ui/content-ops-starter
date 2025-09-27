@@ -77,9 +77,8 @@ sections:
     items:
       - title: 24/7
         subtitle: Lead Handling
-        text: >
-          Instant greet, captured details, qualified leads. **Anytime,
-          Anywhere.**
+        text: |
+          *Instant greet, captured details, qualified leads. Anytime, Anywhere.*
         image:
           url: /images/icon2.svg
           altText: Featured icon two
