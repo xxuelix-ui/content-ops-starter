@@ -8,9 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: BLACKCOLLAR
-    text: >
-      We set up AI automations in your existing tools to save hours and lift
-      conversions. 
+    text: |
+      Blackcollar deploys practical, no-code automation for SMEs. 
+
+      Teams often see **2-3x better lead conversion** within weeks\*. 
     actions:
       - label: Get started
         altText: ''
