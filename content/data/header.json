@@ -74,7 +74,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Start free trial",
+            "label": "Start Free Trial",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
