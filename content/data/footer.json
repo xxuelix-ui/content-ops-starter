@@ -68,7 +68,7 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "linkedin.com/company/blackcollartech/",
+            "url": "https://linkedin.com/company/blackcollartech/",
             "icon": "linkedin",
             "type": "Social"
         },
