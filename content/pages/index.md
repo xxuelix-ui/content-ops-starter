@@ -67,7 +67,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 'No-Code, Done-For-You'
+      text: The simple way
       color: text-dark
       styles:
         self:
