@@ -70,6 +70,9 @@ sections:
       type: TitleBlock
       text: The Simplest Way to Scale
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
       - title: 20x
