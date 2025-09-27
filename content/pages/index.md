@@ -103,7 +103,7 @@ sections:
         title: '8-12 '
         subtitle: hours/week
         text: |
-          Repetitive tasks happen quietly in the background.
+          Repetitive admin runs quietly in the background.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
