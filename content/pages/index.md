@@ -7,7 +7,7 @@ sections:
       text: Automate the repetitive. Grow with efficiency.
       color: text-dark
       type: TitleBlock
-    subtitle: BLACKCOLLAR
+    subtitle: ''
     text: >
       Blackcollar deploys practical, no-code automation for SMEs. Teams often
       see **2-3x better lead conversion** within weeks\*.
