@@ -7,7 +7,7 @@ sections:
       text: Automate the repetitive. Grow with efficiency.
       color: text-dark
       type: TitleBlock
-    subtitle: Transforming the future.
+    subtitle: BLACKCOLLAR
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
