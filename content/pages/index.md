@@ -73,7 +73,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
+    subtitle: 'Practical no-code AI that logs, routes, and reminds.'
     items:
       - title: 24/7
         subtitle: Lead Handling
