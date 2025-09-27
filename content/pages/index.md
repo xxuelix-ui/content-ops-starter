@@ -128,7 +128,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Save Time
-      - title: 200%
+      - title: Up to 3x
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
