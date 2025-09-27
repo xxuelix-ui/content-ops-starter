@@ -164,7 +164,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: ''
+      label: erdf
       color: text-primary
       styles:
         self:
