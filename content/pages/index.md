@@ -77,10 +77,9 @@ sections:
     items:
       - title: 24/7
         subtitle: Lead Handling
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Website + WhatsApp greet visitors, collect context, and qualify,
+          ANYTIME, ANYWHERE. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
