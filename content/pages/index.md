@@ -685,11 +685,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'We''ll reply within 1 business day with next steps. '
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We set up no-code AI that saves time and boosts conversion. Tell us your
+      top bottleneck and we’ll propose the quickest win.
     media:
       fields:
         - name: name
