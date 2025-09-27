@@ -130,10 +130,9 @@ sections:
         tagline: Save Time
       - title: Up to 3x
         subtitle: Better Conversion
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Instant replies and steady follow-ups turn inquiries into meetings and
+          sales. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
