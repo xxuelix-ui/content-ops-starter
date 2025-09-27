@@ -68,7 +68,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: The Simplest Way to Scale
       color: text-dark
     subtitle: 'Practical AI that logs, routes, and nudges so humans can close deals.'
     items:
