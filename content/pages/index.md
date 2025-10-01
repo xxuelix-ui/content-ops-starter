@@ -31,25 +31,13 @@ sections:
         elementId: ''
         type: Link
     media:
-      type: VideoBlock
-      title: Our Strategy
-      url: ''
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
       styles:
         self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+          borderRadius: medium
     badge:
       label: ai for small & medium businesses
       color: text-primary
