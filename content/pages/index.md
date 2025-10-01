@@ -32,7 +32,6 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/AI Knowledge Base.svg
       altText: Image alt text placeholder
       elementId: ''
       styles:
