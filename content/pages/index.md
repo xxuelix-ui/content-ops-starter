@@ -33,8 +33,7 @@ sections:
     media:
       type: VideoBlock
       title: Our Strategy
-      url: >-
-        https://www.canva.com/design/DAG0PcV0LTo/145AIPF2Ze4nrOokFcdgmQ/view?utm_content=DAG0PcV0LTo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd6b34ff6d9
+      url: ''
       autoplay: true
       loop: true
       muted: true
